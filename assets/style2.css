@@ -1,0 +1,46 @@
+/* Universal Selector */
+* {
+
+}
+
+/* Element Selector */
+
+h1 {
+
+}
+
+header {
+
+}
+
+nav {
+    
+}
+
+figure {
+
+}
+
+section {
+
+}
+
+form {
+
+}
+
+footer {
+
+}
+
+/* Class Selector */
+
+.text-center {
+
+}
+
+.text-right {
+
+}
+
+/* ID Selector */
