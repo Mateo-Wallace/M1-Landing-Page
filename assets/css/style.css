@@ -20,6 +20,8 @@ body {
 h1, h2, p {
     color: var(--text);
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 button {
@@ -41,6 +43,16 @@ footer {
     margin-top: 25px;
 }
 
+nav {
+    margin: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: var(--background);
+    margin: 20px;
+}
+
 img {
     display: block;
     margin: 20px auto;
@@ -55,4 +67,14 @@ img {
     border-radius: 10px;
     width: 500px;
     margin: 15px auto;
+}
+
+.ogimage {
+    text-decoration: underline;
+    color: var(--header);
+    margin: 0px;
+}
+
+.caption {
+    width: 500px;
 }
