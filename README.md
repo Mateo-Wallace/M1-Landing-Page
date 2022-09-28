@@ -31,7 +31,7 @@ The original Acceptance Criteria were as follows
 
 ## Link
 
-Click Here: [Deployed Site](https://mateo-wallace.github.io/M2-Challenge-Portfolio/)
+Click Here: [Deployed Site](https://mateo-wallace.github.io/M1-Landing-Page/)
 
 ## Screenshot
 
