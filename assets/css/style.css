@@ -38,6 +38,12 @@ footer {
     background-color: var(--footer);
     border-top: 3px solid var(--border);
     padding-bottom: 20px;
+    margin-top: 25px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
 }
 
 /* ############################################ */
