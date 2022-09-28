@@ -24,11 +24,6 @@ h1, h2, p {
     margin-right: auto;
 }
 
-button {
-    color: var(--background);
-    background-color: var(--text);
-}
-
 header {
     background-color: var(--header);
     border-bottom: 10px solid var(--border);
@@ -56,6 +51,13 @@ a {
 img {
     display: block;
     margin: 20px auto;
+}
+
+button {
+    color: var(--background);
+    background-color: var(--text);
+    padding: 10px 30px;
+    margin-bottom: 10px;
 }
 
 /* ############################################ */
